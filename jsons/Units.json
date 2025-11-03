@@ -10,7 +10,7 @@
 		"range": 100,
 		"cost": 100,
 		"requiredTech": "Flight",
-		"uniques": ["Can move after attacking", "Damage taken from interception reduced by [100]%", "[+4] Sight", "Can see over obstacles", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "Damage taken from interception reduced by [100]%", "[+4] Sight", "Can see over obstacles", "Never appears as a Barbarian unit", "[+150]% Strength <vs [Fighter] units>", "[+150]% Strength <vs [Helicopter] units>", "[+150]% Strength <vs [Armored] units>"],
 		"attackSound": "bombing"
 	}
 ]
