@@ -7,7 +7,7 @@
 		"happiness": 20,
 		"culture": 20,
 		"science": 20,
-		"maintenance": 96,
+		"maintenance": 20,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
@@ -18,8 +18,8 @@
 		"uniqueTo": "Zillas",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"happiness": 10,
+		"uniques": ["90% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]
